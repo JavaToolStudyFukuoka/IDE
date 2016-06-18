@@ -1,2 +1,2 @@
-# IDE
-IDEに関する諸々
+# IDE-Editor
+IDE・エディタに関する諸々
